@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment_1</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="open">OPEN</string>
+    <string name="close">close</string>
+    <string name="open1">OPEN</string>
+    <string name="close1">close</string>
+    <string name="exception_message">hihihihi</string>
+</resources>

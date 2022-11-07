@@ -1,0 +1,9 @@
+com/example/android/fragmentcommunicate/BuildConfig.java
+ com.example.android.fragmentcommunicate.BuildConfig
+com/example/android/fragmentcommunicate/SimpleFragment.java
+ com.example.android.fragmentcommunicate.SimpleFragment
+ com.example.android.fragmentcommunicate.SimpleFragment$1
+ com.example.android.fragmentcommunicate.SimpleFragment$OnFragmentInteractionListener
+com/example/android/fragmentcommunicate/MainActivity.java
+ com.example.android.fragmentcommunicate.MainActivity
+ com.example.android.fragmentcommunicate.MainActivity$1
